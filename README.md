@@ -6,7 +6,7 @@
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://camo.githubusercontent.com/2f885630384e3fc392a88ee5494abdb46a1229d57853d6fdb7d0c0becaf27acb/68747470733a2f2f706174726f6372656174696f6e732e636f6d2f6173736574732f72656163742e737667)" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://camo.githubusercontent.com/80a6c7eb91197bd1cb6ccc8ee67a6b750bd8c1f7618e8edef862ac9ca807922d/68747470733a2f2f706174726f6372656174696f6e732e636f6d2f6173736574732f6e6f64652e737667)" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -35,8 +35,8 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
-<a href="[https://tailwindcss.com/](https://camo.githubusercontent.com/44c436604819eae46887380d3c793a133d73c49ba9de6540b976e0ef8fab700e/68747470733a2f2f706174726f6372656174696f6e732e636f6d2f6173736574732f636f6e74656e66756c2e737667)" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg](https://camo.githubusercontent.com/44c436604819eae46887380d3c793a133d73c49ba9de6540b976e0ef8fab700e/68747470733a2f2f706174726f6372656174696f6e732e636f6d2f6173736574732f636f6e74656e66756c2e737667)" alt="tailwind" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -53,13 +53,6 @@
     <li>Next.js</li>
     <li>GraphQL</li>
 </ul>
-
-/* <h3 align="left">🔭 Planning to learn</h3>
-<ul>
-    <li>Next.js</li>
-    <li>Prisma</li>
-    <li>Nest.js</li>
-</ul> */
 
 <h3 align="left">🤝 Contact with me:</h3>
 <ul>
